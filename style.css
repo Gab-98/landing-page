@@ -57,14 +57,13 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
-    gap: 140px;    
+    flex-wrap: wrap;  
+    margin-left: 100px;
 }
 
 img {
     width: auto;
     height: 500px;
-    margin-left: 24px;
 }
 
 .main-text {
